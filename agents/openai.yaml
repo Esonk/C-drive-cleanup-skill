@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows C Drive Cleanup"
+  short_description: "Safely scan and free Windows C drive space with consent gates."
+  default_prompt: "Scan my Windows C drive, classify what is safe to clean or migrate, and ask for approval before any change."
